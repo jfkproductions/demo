@@ -1,0 +1,35 @@
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.exe
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.deps.json
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.runtimeconfig.json
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.runtimeconfig.dev.json
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.dll
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.pdb
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.Views.dll
+C:\Projects\4.test code\Demo webapp\bin\Debug\netcoreapp3.1\Demo webapp.Views.pdb
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.csprojAssemblyReference.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\staticwebassets\Demo webapp.StaticWebAssets.Manifest.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\staticwebassets\Demo webapp.StaticWebAssets.xml
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.RazorAssemblyInfo.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.RazorAssemblyInfo.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.AssemblyInfoInputs.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.AssemblyInfo.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.TagHelpers.input.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.TagHelpers.output.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.RazorCoreGenerate.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.RazorTargetAssemblyInfo.cache
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.RazorTargetAssemblyInfo.cs
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.Views.pdb
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.dll
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.pdb
+C:\Projects\4.test code\Demo webapp\obj\Debug\netcoreapp3.1\Demo webapp.csproj.CopyComplete
