@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\4.test code\\Demo webapp\\demo\\Demo webapp.csproj": {}
+    "C:\\Projects\\4.test code\\Demo webapp\\Demo webapp.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\4.test code\\Demo webapp\\demo\\Demo webapp.csproj": {
+    "C:\\Projects\\4.test code\\Demo webapp\\Demo webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\4.test code\\Demo webapp\\demo\\Demo webapp.csproj",
+        "projectUniqueName": "C:\\Projects\\4.test code\\Demo webapp\\Demo webapp.csproj",
         "projectName": "Demo webapp",
-        "projectPath": "C:\\Projects\\4.test code\\Demo webapp\\demo\\Demo webapp.csproj",
+        "projectPath": "C:\\Projects\\4.test code\\Demo webapp\\Demo webapp.csproj",
         "packagesPath": "C:\\Users\\du5089\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\4.test code\\Demo webapp\\demo\\obj\\",
+        "outputPath": "C:\\Projects\\4.test code\\Demo webapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -39,7 +39,26 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,14 +69,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
